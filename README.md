@@ -19,7 +19,7 @@ $$E = | m_1\vec{C_1} - m_2\vec{C_2} |$$
 ## 3. Fundamental Claim
 This theory challenges Einstein’s $E = mc^2$, which states that a mass approaching the speed of light undergoes exponential mass increase, preventing it from exceeding light speed.
 
-**The Cross-Mass theory claims:**
+**The Cross-Mass enegy theory claims:**
 - If a force is applied in the same direction as the mass is already moving, then the energy requirement becomes minimal.
 - As a result, the object can theoretically surpass the speed of light, because opposing forces (drag, resistance) become nearly zero.
 
