@@ -41,3 +41,4 @@ This equation introduces a new relationship between energy, mass, and velocity, 
 
 ---
 **Author:** Prakash Chandra
+independent researcher
